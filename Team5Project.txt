@@ -1,0 +1,7 @@
+TEAM 5 - Be Well Hospital Management System
+-------------------------------------------
+1. Vaisakh K M (Lead)
+2. Anukrishna TV
+3. Ashish George
+4. Vismay Vinod
+5. Francis Varghese
